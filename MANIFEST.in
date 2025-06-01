@@ -1,2 +1,3 @@
 recursive-include robocasa *.xml
 recursive-include robocasa *.json
+recursive-include robocasa *.yaml
